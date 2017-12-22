@@ -103,7 +103,7 @@ static bool s_bBeatStop = false;	// 停止巡检
 static bool s_SipgwSend = false;
 static bool s_OmSend = false;
 static int s_UsingNetwork = -1;
-static CString s_strSoftVer = L"1.0.102";
+static CString s_strSoftVer = L"1.0.103";
 static CString s_strSoftDate = L"2017/11/07";
 static int s_bFirst = 0;  //消息机制s_bFirst = (int)wParam
 static DWORD s_callEvtTime = 0;	//最新电话事件的产生时间
